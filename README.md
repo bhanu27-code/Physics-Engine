@@ -1,2 +1,2 @@
-# Physics-Engine
-Today I learnt about collisions and physics library by my teacher Yashwini ma'am.
+# staticSquare
+A static square made using Matter.js physics engine
